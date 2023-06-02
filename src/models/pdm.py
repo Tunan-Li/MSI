@@ -1,6 +1,4 @@
-# coding: utf-8
-# @email: enoche.chow@gmail.com
-# version 3 conduct information bottleneck between three views
+
 r"""
 
 ################################################
