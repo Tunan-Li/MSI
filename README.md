@@ -1,6 +1,6 @@
 ## PDM
 
-## Overview of PDM
+## Overview of PDR
 <p>
 <img src="./images/PDM.png" width="800">
 </p>
