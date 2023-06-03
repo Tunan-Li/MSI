@@ -17,7 +17,7 @@
 ## How to run
 1. Put your downloaded data (e.g. `sports`) under `data` dir, you can obatin the data by following the model BM3 mentioned in our paper.
 2. Enter `src` folder and run with  
-`python main.py -m PDM -d sports`  
+`python main.py -m PDR -d sports`  
 You may specify other parameters in CMD or config with `configs/model/*.yaml` and `configs/dataset/*.yaml`.
 
 
