@@ -1,6 +1,6 @@
-## PDM
+## MSI
 
-## Overview of DPR
+## Overview of MSI
 <p>
 <img src="./images/PDM.png" width="800">
 </p>
