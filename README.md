@@ -2,7 +2,7 @@
 
 ## Overview of MSI
 <p>
-<img src="./images/PDM.png" width="800">
+<img src="./images/cikm.pdf" width="800">
 </p>
 
 
